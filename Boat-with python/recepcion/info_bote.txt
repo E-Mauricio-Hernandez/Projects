@@ -1,0 +1,651 @@
+lat=0.0,lon=0.0,alt=0.61 Temp: -9 Modo: HOLD 18:15:51 F: 1
+lat=0.0,lon=0.0,alt=0.48 Temp: -8 Modo: HOLD 18:15:52 F: 2
+lat=0.0,lon=0.0,alt=0.61 Temp: -7 Modo: HOLD 18:15:52 F: 3
+lat=0.0,lon=0.0,alt=0.62 Temp: -6 Modo: HOLD 18:15:53 F: 4
+lat=0.0,lon=0.0,alt=0.63 Temp: -5 Modo: HOLD 18:15:53 F: 5
+lat=0.0,lon=0.0,alt=0.55 Temp: -4 Modo: HOLD 18:15:54 F: 6
+lat=0.0,lon=0.0,alt=0.42 Temp: -3 Modo: HOLD 18:15:54 F: 7
+lat=0.0,lon=0.0,alt=0.44 Temp: -2 Modo: HOLD 18:15:55 F: 8
+lat=0.0,lon=0.0,alt=0.62 Temp: -1 Modo: HOLD 18:15:55 F: 9
+lat=0.0,lon=0.0,alt=0.63 Temp: 0 Modo: HOLD 18:15:56 F: 10
+lat=0.0,lon=0.0,alt=0.53 Temp: 1 Modo: HOLD 18:15:56 F: 11
+lat=0.0,lon=0.0,alt=0.52 Temp: 2 Modo: HOLD 18:15:57 F: 12
+lat=0.0,lon=0.0,alt=0.47 Temp: 3 Modo: HOLD 18:15:58 F: 13
+lat=0.0,lon=0.0,alt=0.6 Temp: 4 Modo: HOLD 18:15:58 F: 14
+lat=0.0,lon=0.0,alt=0.54 Temp: 5 Modo: HOLD 18:15:59 F: 15
+lat=0.0,lon=0.0,alt=0.59 Temp: 6 Modo: HOLD 18:15:59 F: 16
+lat=0.0,lon=0.0,alt=0.59 Temp: 7 Modo: HOLD 18:16:00 F: 17
+lat=0.0,lon=0.0,alt=0.68 Temp: 8 Modo: HOLD 18:16:00 F: 18
+lat=0.0,lon=0.0,alt=0.56 Temp: 9 Modo: HOLD 18:16:01 F: 19
+lat=0.0,lon=0.0,alt=0.55 Temp: 10 Modo: HOLD 18:16:01 F: 20
+lat=0.0,lon=0.0,alt=0.47 Temp: 11 Modo: HOLD 18:16:02 F: 21
+lat=0.0,lon=0.0,alt=0.52 Temp: 12 Modo: HOLD 18:16:02 F: 22
+lat=0.0,lon=0.0,alt=0.55 Temp: 13 Modo: HOLD 18:16:03 F: 23
+lat=0.0,lon=0.0,alt=0.58 Temp: 14 Modo: HOLD 18:16:03 F: 24
+lat=0.0,lon=0.0,alt=0.6 Temp: 15 Modo: HOLD 18:16:04 F: 25
+lat=0.0,lon=0.0,alt=0.56 Temp: 16 Modo: HOLD 18:16:04 F: 26
+lat=0.0,lon=0.0,alt=0.67 Temp: 17 Modo: HOLD 18:16:05 F: 27
+lat=0.0,lon=0.0,alt=0.64 Temp: 18 Modo: HOLD 18:16:05 F: 28
+lat=0.0,lon=0.0,alt=0.59 Temp: 19 Modo: HOLD 18:16:06 F: 29
+lat=0.0,lon=0.0,alt=0.58 Temp: 20 Modo: HOLD 18:16:06 F: 30
+lat=0.0,lon=0.0,alt=0.6 Temp: 21 Modo: HOLD 18:16:07 F: 31
+lat=0.0,lon=0.0,alt=0.61 Temp: 22 Modo: HOLD 18:16:07 F: 32
+lat=0.0,lon=0.0,alt=0.52 Temp: 23 Modo: HOLD 18:16:08 F: 33
+lat=0.0,lon=0.0,alt=0.42 Temp: 24 Modo: HOLD 18:16:09 F: 34
+lat=0.0,lon=0.0,alt=0.53 Temp: 25 Modo: HOLD 18:16:09 F: 35
+lat=0.0,lon=0.0,alt=0.53 Temp: 26 Modo: HOLD 18:16:10 F: 36
+lat=0.0,lon=0.0,alt=0.48 Temp: 27 Modo: HOLD 18:16:10 F: 37
+lat=0.0,lon=0.0,alt=0.47 Temp: 28 Modo: HOLD 18:16:11 F: 38
+lat=0.0,lon=0.0,alt=0.53 Temp: 29 Modo: HOLD 18:16:11 F: 39
+lat=0.0,lon=0.0,alt=0.56 Temp: 30 Modo: HOLD 18:16:12 F: 40
+lat=0.0,lon=0.0,alt=0.33 Temp: 31 Modo: HOLD 18:16:12 F: 41
+lat=0.0,lon=0.0,alt=0.5 Temp: 32 Modo: HOLD 18:16:13 F: 42
+lat=0.0,lon=0.0,alt=0.64 Temp: 33 Modo: HOLD 18:16:13 F: 43
+lat=0.0,lon=0.0,alt=0.7 Temp: 34 Modo: HOLD 18:16:14 F: 44
+lat=0.0,lon=0.0,alt=0.62 Temp: 35 Modo: HOLD 18:16:15 F: 45
+lat=0.0,lon=0.0,alt=0.38 Temp: 36 Modo: HOLD 18:16:15 F: 46
+lat=0.0,lon=0.0,alt=0.47 Temp: 37 Modo: HOLD 18:16:16 F: 47
+lat=0.0,lon=0.0,alt=0.58 Temp: 38 Modo: HOLD 18:16:16 F: 48
+lat=0.0,lon=0.0,alt=0.6 Temp: 39 Modo: HOLD 18:16:17 F: 49
+lat=0.0,lon=0.0,alt=0.48 Temp: -10 Modo: HOLD 18:16:17 F: 50
+lat=0.0,lon=0.0,alt=0.57 Temp: -9 Modo: HOLD 18:16:18 F: 51
+lat=0.0,lon=0.0,alt=0.57 Temp: -8 Modo: HOLD 18:16:18 F: 52
+lat=0.0,lon=0.0,alt=0.61 Temp: -7 Modo: HOLD 18:16:19 F: 53
+lat=0.0,lon=0.0,alt=0.61 Temp: -6 Modo: HOLD 18:16:19 F: 54
+lat=0.0,lon=0.0,alt=0.43 Temp: -5 Modo: HOLD 18:16:20 F: 55
+lat=0.0,lon=0.0,alt=0.64 Temp: -4 Modo: HOLD 18:16:20 F: 56
+lat=0.0,lon=0.0,alt=0.53 Temp: -3 Modo: HOLD 18:16:21 F: 57
+lat=0.0,lon=0.0,alt=0.6 Temp: -2 Modo: HOLD 18:16:21 F: 58
+lat=0.0,lon=0.0,alt=0.54 Temp: -1 Modo: HOLD 18:16:22 F: 59
+lat=0.0,lon=0.0,alt=0.57 Temp: 0 Modo: HOLD 18:16:22 F: 60
+lat=0.0,lon=0.0,alt=0.52 Temp: 1 Modo: HOLD 18:16:23 F: 61
+lat=0.0,lon=0.0,alt=0.22 Temp: 2 Modo: HOLD 18:16:24 F: 62
+lat=0.0,lon=0.0,alt=0.49 Temp: 3 Modo: HOLD 18:16:24 F: 63
+lat=0.0,lon=0.0,alt=0.59 Temp: 4 Modo: HOLD 18:16:25 F: 64
+lat=0.0,lon=0.0,alt=0.37 Temp: 5 Modo: HOLD 18:16:25 F: 65
+lat=0.0,lon=0.0,alt=0.46 Temp: 6 Modo: HOLD 18:16:26 F: 66
+lat=0.0,lon=0.0,alt=0.47 Temp: 7 Modo: HOLD 18:16:26 F: 67
+lat=0.0,lon=0.0,alt=0.49 Temp: 8 Modo: HOLD 18:16:27 F: 68
+lat=0.0,lon=0.0,alt=0.3 Temp: 9 Modo: HOLD 18:16:27 F: 69
+lat=0.0,lon=0.0,alt=0.47 Temp: 10 Modo: HOLD 18:16:28 F: 70
+lat=0.0,lon=0.0,alt=0.46 Temp: 11 Modo: HOLD 18:16:28 F: 71
+lat=0.0,lon=0.0,alt=0.44 Temp: 12 Modo: HOLD 18:16:29 F: 72
+lat=0.0,lon=0.0,alt=0.51 Temp: 13 Modo: HOLD 18:16:29 F: 73
+lat=0.0,lon=0.0,alt=0.48 Temp: 14 Modo: HOLD 18:16:30 F: 74
+lat=0.0,lon=0.0,alt=0.4 Temp: 15 Modo: HOLD 18:16:31 F: 75
+lat=0.0,lon=0.0,alt=0.46 Temp: 16 Modo: HOLD 18:16:31 F: 76
+lat=0.0,lon=0.0,alt=0.5 Temp: 17 Modo: HOLD 18:16:32 F: 77
+lat=0.0,lon=0.0,alt=0.42 Temp: 18 Modo: HOLD 18:16:32 F: 78
+lat=0.0,lon=0.0,alt=0.41 Temp: 19 Modo: HOLD 18:16:33 F: 79
+lat=0.0,lon=0.0,alt=0.49 Temp: 20 Modo: HOLD 18:16:33 F: 80
+lat=0.0,lon=0.0,alt=0.42 Temp: 21 Modo: HOLD 18:16:34 F: 81
+lat=0.0,lon=0.0,alt=0.28 Temp: 22 Modo: HOLD 18:16:34 F: 82
+lat=0.0,lon=0.0,alt=0.25 Temp: 23 Modo: HOLD 18:16:35 F: 83
+lat=0.0,lon=0.0,alt=0.39 Temp: 24 Modo: HOLD 18:16:35 F: 84
+lat=0.0,lon=0.0,alt=0.42 Temp: 25 Modo: HOLD 18:16:36 F: 85
+lat=0.0,lon=0.0,alt=0.42 Temp: 26 Modo: HOLD 18:16:36 F: 86
+lat=0.0,lon=0.0,alt=0.42 Temp: 27 Modo: HOLD 18:16:37 F: 87
+lat=0.0,lon=0.0,alt=0.4 Temp: 28 Modo: HOLD 18:16:37 F: 88
+lat=0.0,lon=0.0,alt=0.31 Temp: 29 Modo: HOLD 18:16:38 F: 89
+lat=0.0,lon=0.0,alt=0.46 Temp: 30 Modo: HOLD 18:16:38 F: 90
+lat=0.0,lon=0.0,alt=0.42 Temp: 31 Modo: HOLD 18:16:39 F: 91
+lat=0.0,lon=0.0,alt=0.36 Temp: 32 Modo: HOLD 18:16:39 F: 92
+lat=0.0,lon=0.0,alt=0.24 Temp: 33 Modo: HOLD 18:16:40 F: 93
+lat=0.0,lon=0.0,alt=0.44 Temp: 34 Modo: HOLD 18:16:41 F: 94
+lat=0.0,lon=0.0,alt=0.39 Temp: 35 Modo: HOLD 18:16:41 F: 95
+lat=0.0,lon=0.0,alt=0.4 Temp: 36 Modo: HOLD 18:16:42 F: 96
+lat=0.0,lon=0.0,alt=0.4 Temp: 37 Modo: HOLD 18:16:42 F: 97
+lat=0.0,lon=0.0,alt=0.46 Temp: 38 Modo: HOLD 18:16:43 F: 98
+lat=0.0,lon=0.0,alt=0.42 Temp: 39 Modo: HOLD 18:16:43 F: 99
+lat=0.0,lon=0.0,alt=0.31 Temp: -10 Modo: HOLD 18:16:44 F: 0
+lat=0.0,lon=0.0,alt=0.27 Temp: -9 Modo: HOLD 18:16:44 F: 1
+lat=0.0,lon=0.0,alt=0.48 Temp: -8 Modo: HOLD 18:16:45 F: 2
+lat=0.0,lon=0.0,alt=0.33 Temp: -7 Modo: HOLD 18:16:45 F: 3
+lat=0.0,lon=0.0,alt=0.47 Temp: -6 Modo: HOLD 18:16:46 F: 4
+lat=0.0,lon=0.0,alt=0.3 Temp: -5 Modo: HOLD 18:16:46 F: 5
+lat=0.0,lon=0.0,alt=0.3 Temp: -4 Modo: HOLD 18:16:47 F: 6
+lat=0.0,lon=0.0,alt=0.44 Temp: -3 Modo: HOLD 18:16:47 F: 7
+lat=0.0,lon=0.0,alt=0.28 Temp: -2 Modo: HOLD 18:16:48 F: 8
+lat=0.0,lon=0.0,alt=0.25 Temp: -1 Modo: HOLD 18:16:49 F: 9
+lat=0.0,lon=0.0,alt=0.18 Temp: 0 Modo: HOLD 18:16:49 F: 10
+lat=0.0,lon=0.0,alt=0.09 Temp: 1 Modo: HOLD 18:16:50 F: 11
+lat=-31.5372556,lon=-68.5267053,alt=0.44 Temp: -9 Modo: HOLD 15:27:31 F: 1
+lat=-31.5372556,lon=-68.5267053,alt=0.28 Temp: -8 Modo: HOLD 15:27:32 F: 2
+lat=-31.5372556,lon=-68.5267053,alt=0.12 Temp: -7 Modo: HOLD 15:27:32 F: 3
+lat=-31.5372556,lon=-68.5267053,alt=0.28 Temp: -6 Modo: HOLD 15:27:33 F: 4
+lat=-31.5372556,lon=-68.5267053,alt=0.33 Temp: -5 Modo: HOLD 15:27:33 F: 5
+lat=-31.5372556,lon=-68.5267053,alt=0.27 Temp: -4 Modo: HOLD 15:27:34 F: 6
+lat=-31.5372556,lon=-68.5267053,alt=0.23 Temp: -3 Modo: HOLD 15:27:34 F: 7
+lat=-31.5372556,lon=-68.5267053,alt=0.32 Temp: -2 Modo: HOLD 15:27:35 F: 8
+lat=-31.5372556,lon=-68.5267053,alt=0.22 Temp: -1 Modo: HOLD 15:27:35 F: 9
+lat=-31.5372556,lon=-68.5267053,alt=0.18 Temp: 0 Modo: HOLD 15:27:36 F: 10
+lat=-31.5372556,lon=-68.5267053,alt=0.43 Temp: 1 Modo: HOLD 15:27:37 F: 11
+lat=-31.5372556,lon=-68.5267053,alt=0.22 Temp: 2 Modo: HOLD 15:27:37 F: 12
+lat=-31.5372556,lon=-68.5267053,alt=0.36 Temp: 3 Modo: HOLD 15:27:38 F: 13
+lat=-31.5372556,lon=-68.5267053,alt=0.33 Temp: 4 Modo: HOLD 15:27:38 F: 14
+lat=-31.5372556,lon=-68.5267053,alt=0.24 Temp: 5 Modo: HOLD 15:27:39 F: 15
+lat=-31.5372556,lon=-68.5267053,alt=0.41 Temp: 6 Modo: HOLD 15:27:39 F: 16
+lat=-31.5372556,lon=-68.5267053,alt=0.37 Temp: 7 Modo: HOLD 15:27:40 F: 17
+lat=-31.5372556,lon=-68.5267053,alt=0.16 Temp: 8 Modo: HOLD 15:27:40 F: 18
+lat=-31.5372556,lon=-68.5267053,alt=0.31 Temp: 9 Modo: HOLD 15:27:41 F: 19
+lat=-31.5372556,lon=-68.5267053,alt=0.3 Temp: 10 Modo: HOLD 15:27:42 F: 20
+lat=-31.5372556,lon=-68.5267053,alt=0.25 Temp: 11 Modo: HOLD 15:27:42 F: 21
+lat=-31.5372556,lon=-68.5267053,alt=0.41 Temp: 12 Modo: HOLD 15:27:43 F: 22
+lat=-31.5372556,lon=-68.5267053,alt=0.25 Temp: 13 Modo: HOLD 15:27:43 F: 23
+lat=-31.5372556,lon=-68.5267053,alt=0.46 Temp: 14 Modo: HOLD 15:27:44 F: 24
+lat=-31.5379861,lon=-68.526593,alt=2.54 Temp: 22 Modo: HOLD 16:09:27 F: 43
+lat=-31.5379533,lon=-68.526562,alt=2.63 Temp: 23 Modo: HOLD 16:09:27 F: 44
+lat=-31.5379525,lon=-68.5265627,alt=2.53 Temp: 24 Modo: HOLD 16:09:28 F: 45
+lat=-31.5379496,lon=-68.5265667,alt=2.73 Temp: 25 Modo: HOLD 16:09:29 F: 46
+lat=-31.5379552,lon=-68.5265579,alt=2.62 Temp: 26 Modo: HOLD 16:09:29 F: 47
+lat=-31.5379559,lon=-68.5265558,alt=2.65 Temp: 27 Modo: HOLD 16:09:30 F: 48
+lat=-31.537886,lon=-68.5265404,alt=2.5 Temp: 28 Modo: HOLD 16:09:30 F: 49
+lat=-31.5378745,lon=-68.5265438,alt=2.47 Temp: 29 Modo: HOLD 16:09:31 F: 50
+lat=-31.5378578,lon=-68.5265439,alt=2.77 Temp: 30 Modo: HOLD 16:09:32 F: 51
+lat=-31.5378475,lon=-68.5265385,alt=2.73 Temp: 31 Modo: HOLD 16:09:32 F: 52
+lat=-31.5378399,lon=-68.5265332,alt=2.54 Temp: 32 Modo: HOLD 16:09:33 F: 53
+lat=-31.5378583,lon=-68.5265559,alt=2.94 Temp: 33 Modo: HOLD 16:09:33 F: 54
+lat=-31.5378465,lon=-68.5265452,alt=2.71 Temp: 34 Modo: HOLD 16:09:34 F: 55
+lat=-31.5378281,lon=-68.5265293,alt=2.62 Temp: 35 Modo: HOLD 16:09:35 F: 56
+lat=-31.5378071,lon=-68.5265028,alt=2.73 Temp: 36 Modo: HOLD 16:09:35 F: 57
+lat=-31.5377925,lon=-68.526494,alt=2.68 Temp: 37 Modo: HOLD 16:09:36 F: 58
+lat=-31.5377519,lon=-68.5264225,alt=2.81 Temp: 38 Modo: HOLD 16:09:36 F: 59
+lat=-31.5377312,lon=-68.5264033,alt=2.64 Temp: 39 Modo: HOLD 16:09:37 F: 60
+lat=-31.5377015,lon=-68.5263719,alt=2.76 Temp: -10 Modo: HOLD 16:09:38 F: 61
+lat=-31.5376561,lon=-68.5263347,alt=2.59 Temp: -9 Modo: HOLD 16:09:38 F: 62
+lat=-31.5351222,lon=-68.5240729,alt=2.97 Temp: 2 Modo: HOLD 16:10:15 F: 23
+lat=-31.5350282,lon=-68.5238631,alt=2.81 Temp: 3 Modo: HOLD 16:10:16 F: 24
+lat=-31.5350282,lon=-68.5238631,alt=2.71 Temp: 14 Modo: HOLD 16:10:22 F: 35
+lat=-31.5350282,lon=-68.5238631,alt=2.83 Temp: 15 Modo: HOLD 16:10:23 F: 36
+lat=-31.5350282,lon=-68.5238631,alt=2.56 Temp: 37 Modo: HOLD 16:10:36 F: 58
+lat=-31.5350282,lon=-68.5238631,alt=2.95 Temp: -3 Modo: HOLD 16:10:42 F: 68
+lat=-31.5350282,lon=-68.5238631,alt=2.93 Temp: 32 Modo: HOLD 16:11:02 F: 3
+lat=-31.5350282,lon=-68.5238631,alt=2.82 Temp: 33 Modo: HOLD 16:11:03 F: 4
+lat=-31.5350282,lon=-68.5238631,alt=3.02 Temp: 34 Modo: HOLD 16:11:04 F: 5
+lat=-31.5350282,lon=-68.5238631,alt=2.8 Temp: 35 Modo: HOLD 16:11:04 F: 6
+lat=-31.5350282,lon=-68.5238631,alt=2.82 Temp: 36 Modo: HOLD 16:11:05 F: 7
+lat=-31.5350282,lon=-68.5238631,alt=2.88 Temp: 37 Modo: HOLD 16:11:05 F: 8
+lat=-31.5350282,lon=-68.5238631,alt=3.01 Temp: 38 Modo: HOLD 16:11:06 F: 9
+lat=-31.5350282,lon=-68.5238631,alt=2.81 Temp: 39 Modo: HOLD 16:11:06 F: 10
+lat=-31.5350282,lon=-68.5238631,alt=2.99 Temp: -10 Modo: HOLD 16:11:07 F: 11
+lat=-31.5350282,lon=-68.5238631,alt=2.85 Temp: -9 Modo: HOLD 16:11:08 F: 12
+lat=-31.5350282,lon=-68.5238631,alt=2.88 Temp: -8 Modo: HOLD 16:11:08 F: 13
+lat=-31.5350282,lon=-68.5238631,alt=2.81 Temp: -7 Modo: HOLD 16:11:09 F: 14
+lat=-31.5350282,lon=-68.5238631,alt=2.8 Temp: -6 Modo: HOLD 16:11:09 F: 15
+lat=-31.5350282,lon=-68.5238631,alt=2.95 Temp: -5 Modo: HOLD 16:11:10 F: 16
+lat=-31.5350282,lon=-68.5238631,alt=2.9 Temp: -4 Modo: HOLD 16:11:11 F: 17
+lat=-31.5350282,lon=-68.5238631,alt=2.95 Temp: -3 Modo: HOLD 16:11:11 F: 18
+lat=-31.5350282,lon=-68.5238631,alt=2.71 Temp: -2 Modo: HOLD 16:11:12 F: 19
+lat=-31.5350282,lon=-68.5238631,alt=3.05 Temp: -1 Modo: HOLD 16:11:12 F: 20
+lat=-31.5350282,lon=-68.5238631,alt=3.06 Temp: 0 Modo: HOLD 16:11:13 F: 21
+lat=-31.5350282,lon=-68.5238631,alt=3.0 Temp: 1 Modo: HOLD 16:11:13 F: 22
+lat=-31.5350282,lon=-68.5238631,alt=2.86 Temp: 2 Modo: HOLD 16:11:14 F: 23
+lat=-31.5350282,lon=-68.5238631,alt=2.75 Temp: 3 Modo: HOLD 16:11:14 F: 24
+lat=-31.5350282,lon=-68.5238631,alt=3.03 Temp: 4 Modo: HOLD 16:11:15 F: 25
+lat=-31.5350282,lon=-68.5238631,alt=2.97 Temp: 5 Modo: HOLD 16:11:16 F: 26
+lat=-31.5350282,lon=-68.5238631,alt=2.93 Temp: 6 Modo: HOLD 16:11:16 F: 27
+lat=-31.5350282,lon=-68.5238631,alt=2.81 Temp: 7 Modo: HOLD 16:11:17 F: 28
+lat=-31.5350282,lon=-68.5238631,alt=2.77 Temp: 8 Modo: HOLD 16:11:17 F: 29
+lat=-31.5350282,lon=-68.5238631,alt=2.91 Temp: 9 Modo: HOLD 16:11:18 F: 30
+lat=-31.5350282,lon=-68.5238631,alt=2.89 Temp: 10 Modo: HOLD 16:11:19 F: 31
+lat=-31.5350282,lon=-68.5238631,alt=2.75 Temp: 11 Modo: HOLD 16:11:19 F: 32
+lat=-31.5350282,lon=-68.5238631,alt=2.89 Temp: 12 Modo: HOLD 16:11:20 F: 33
+lat=-31.5350282,lon=-68.5238631,alt=2.69 Temp: 13 Modo: HOLD 16:11:20 F: 34
+lat=-31.5350282,lon=-68.5238631,alt=3.09 Temp: 14 Modo: HOLD 16:11:21 F: 35
+lat=-31.5350282,lon=-68.5238631,alt=2.85 Temp: 15 Modo: HOLD 16:11:22 F: 36
+lat=-31.5350282,lon=-68.5238631,alt=2.95 Temp: 16 Modo: HOLD 16:11:22 F: 37
+lat=-31.5350282,lon=-68.5238631,alt=2.93 Temp: 17 Modo: HOLD 16:11:23 F: 38
+lat=-31.5350282,lon=-68.5238631,alt=2.8 Temp: 18 Modo: HOLD 16:11:23 F: 39
+lat=-31.5350282,lon=-68.5238631,alt=2.82 Temp: 19 Modo: HOLD 16:11:24 F: 40
+lat=-31.5350282,lon=-68.5238631,alt=3.0 Temp: 20 Modo: HOLD 16:11:24 F: 41
+lat=-31.5350282,lon=-68.5238631,alt=2.86 Temp: 21 Modo: HOLD 16:11:25 F: 42
+lat=-31.5350282,lon=-68.5238631,alt=2.81 Temp: 22 Modo: HOLD 16:11:26 F: 43
+lat=-31.5350282,lon=-68.5238631,alt=2.91 Temp: 23 Modo: HOLD 16:11:26 F: 44
+lat=-31.5350282,lon=-68.5238631,alt=2.71 Temp: 24 Modo: HOLD 16:11:27 F: 45
+lat=-31.5350282,lon=-68.5238631,alt=2.95 Temp: 25 Modo: HOLD 16:11:27 F: 46
+lat=-31.5350282,lon=-68.5238631,alt=2.89 Temp: 26 Modo: HOLD 16:11:28 F: 47
+lat=-31.5350282,lon=-68.5238631,alt=2.71 Temp: 27 Modo: HOLD 16:11:28 F: 48
+lat=-31.5350282,lon=-68.5238631,alt=2.88 Temp: 28 Modo: HOLD 16:11:29 F: 49
+lat=-31.5350282,lon=-68.5238631,alt=2.77 Temp: 29 Modo: HOLD 16:11:30 F: 50
+lat=-31.5350282,lon=-68.5238631,alt=3.0 Temp: 30 Modo: HOLD 16:11:30 F: 51
+lat=-31.5350282,lon=-68.5238631,alt=2.75 Temp: 31 Modo: HOLD 16:11:31 F: 52
+lat=-31.5350282,lon=-68.5238631,alt=2.72 Temp: 32 Modo: HOLD 16:11:31 F: 53
+lat=-31.5350282,lon=-68.5238631,alt=3.04 Temp: 33 Modo: HOLD 16:11:32 F: 54
+lat=-31.5350282,lon=-68.5238631,alt=2.87 Temp: 34 Modo: HOLD 16:11:33 F: 55
+lat=-31.5350282,lon=-68.5238631,alt=3.04 Temp: 35 Modo: HOLD 16:11:33 F: 56
+lat=-31.5350282,lon=-68.5238631,alt=2.78 Temp: 36 Modo: HOLD 16:11:34 F: 57
+lat=-31.5350282,lon=-68.5238631,alt=3.02 Temp: 37 Modo: HOLD 16:11:34 F: 58
+lat=-31.5350282,lon=-68.5238631,alt=2.9 Temp: 38 Modo: HOLD 16:11:35 F: 59
+lat=-31.5350282,lon=-68.5238631,alt=2.8 Temp: 39 Modo: HOLD 16:11:35 F: 60
+lat=-31.5350282,lon=-68.5238631,alt=2.97 Temp: -10 Modo: HOLD 16:11:36 F: 61
+lat=-31.5350282,lon=-68.5238631,alt=2.84 Temp: -9 Modo: HOLD 16:11:37 F: 62
+lat=-31.5350282,lon=-68.5238631,alt=2.94 Temp: -8 Modo: HOLD 16:11:37 F: 63
+lat=-31.5350282,lon=-68.5238631,alt=2.95 Temp: -7 Modo: HOLD 16:11:38 F: 64
+lat=-31.5350282,lon=-68.5238631,alt=3.02 Temp: -6 Modo: HOLD 16:11:38 F: 65
+lat=-31.5350282,lon=-68.5238631,alt=2.97 Temp: -5 Modo: HOLD 16:11:39 F: 66
+lat=-31.5350282,lon=-68.5238631,alt=2.82 Temp: -4 Modo: HOLD 16:11:40 F: 67
+lat=-31.5350282,lon=-68.5238631,alt=2.91 Temp: -3 Modo: HOLD 16:11:40 F: 68
+lat=-31.5350282,lon=-68.5238631,alt=3.12 Temp: -2 Modo: HOLD 16:11:41 F: 69
+lat=-31.5350282,lon=-68.5238631,alt=3.08 Temp: -1 Modo: HOLD 16:11:41 F: 70
+lat=-31.5350282,lon=-68.5238631,alt=3.06 Temp: 0 Modo: HOLD 16:11:42 F: 71
+lat=-31.5350282,lon=-68.5238631,alt=2.91 Temp: 1 Modo: HOLD 16:11:43 F: 72
+lat=-31.5350282,lon=-68.5238631,alt=3.06 Temp: 2 Modo: HOLD 16:11:43 F: 73
+lat=-31.5350282,lon=-68.5238631,alt=3.25 Temp: 3 Modo: HOLD 16:11:44 F: 74
+lat=-31.5350282,lon=-68.5238631,alt=3.27 Temp: 4 Modo: HOLD 16:11:44 F: 75
+lat=-31.5350282,lon=-68.5238631,alt=2.93 Temp: 5 Modo: HOLD 16:11:45 F: 76
+lat=-31.5350282,lon=-68.5238631,alt=2.9 Temp: 6 Modo: HOLD 16:11:46 F: 77
+lat=-31.5350282,lon=-68.5238631,alt=3.13 Temp: 7 Modo: HOLD 16:11:46 F: 78
+lat=-31.5350282,lon=-68.5238631,alt=3.02 Temp: 8 Modo: HOLD 16:11:47 F: 79
+lat=-31.5350282,lon=-68.5238631,alt=3.13 Temp: 9 Modo: HOLD 16:11:47 F: 80
+lat=-31.5350282,lon=-68.5238631,alt=3.3 Temp: 10 Modo: HOLD 16:11:48 F: 81
+lat=-31.5350282,lon=-68.5238631,alt=3.19 Temp: 11 Modo: HOLD 16:11:48 F: 82
+lat=-31.5350282,lon=-68.5238631,alt=3.14 Temp: 12 Modo: HOLD 16:11:49 F: 83
+lat=-31.5350282,lon=-68.5238631,alt=3.12 Temp: 13 Modo: HOLD 16:11:50 F: 84
+lat=-31.5350282,lon=-68.5238631,alt=3.0 Temp: 14 Modo: HOLD 16:11:50 F: 85
+lat=-31.5350282,lon=-68.5238631,alt=2.93 Temp: 15 Modo: HOLD 16:11:51 F: 86
+lat=-31.5350282,lon=-68.5238631,alt=3.2 Temp: 16 Modo: HOLD 16:11:51 F: 87
+lat=-31.5350282,lon=-68.5238631,alt=3.22 Temp: 17 Modo: HOLD 16:11:52 F: 88
+lat=-31.5350282,lon=-68.5238631,alt=3.08 Temp: 18 Modo: HOLD 16:11:53 F: 89
+lat=-31.5350282,lon=-68.5238631,alt=3.3 Temp: 19 Modo: HOLD 16:11:53 F: 90
+lat=-31.5350282,lon=-68.5238631,alt=3.15 Temp: 20 Modo: HOLD 16:11:54 F: 91
+lat=-31.5350282,lon=-68.5238631,alt=3.04 Temp: 21 Modo: HOLD 16:11:54 F: 92
+lat=-31.5350282,lon=-68.5238631,alt=3.09 Temp: 22 Modo: HOLD 16:11:55 F: 93
+lat=-31.5350282,lon=-68.5238631,alt=3.04 Temp: 23 Modo: HOLD 16:11:56 F: 94
+lat=-31.5350282,lon=-68.5238631,alt=3.36 Temp: 24 Modo: HOLD 16:11:56 F: 95
+lat=-31.5350282,lon=-68.5238631,alt=3.06 Temp: 25 Modo: HOLD 16:11:57 F: 96
+lat=-31.5350282,lon=-68.5238631,alt=3.3 Temp: 26 Modo: HOLD 16:11:57 F: 97
+lat=-31.5350282,lon=-68.5238631,alt=3.24 Temp: 27 Modo: HOLD 16:11:58 F: 98
+lat=-31.5350282,lon=-68.5238631,alt=3.28 Temp: 28 Modo: HOLD 16:11:58 F: 99
+lat=-31.5350282,lon=-68.5238631,alt=3.02 Temp: 29 Modo: HOLD 16:11:59 F: 0
+lat=-31.5350282,lon=-68.5238631,alt=3.29 Temp: 30 Modo: HOLD 16:12:00 F: 1
+lat=-31.5350282,lon=-68.5238631,alt=3.2 Temp: 31 Modo: HOLD 16:12:00 F: 2
+lat=-31.5350282,lon=-68.5238631,alt=3.25 Temp: 32 Modo: HOLD 16:12:01 F: 3
+lat=-31.5350282,lon=-68.5238631,alt=3.23 Temp: 33 Modo: HOLD 16:12:01 F: 4
+lat=-31.5350282,lon=-68.5238631,alt=3.28 Temp: 34 Modo: HOLD 16:12:02 F: 5
+lat=-31.5350282,lon=-68.5238631,alt=3.21 Temp: 35 Modo: HOLD 16:12:03 F: 6
+lat=-31.5350282,lon=-68.5238631,alt=3.08 Temp: 36 Modo: HOLD 16:12:03 F: 7
+lat=-31.5350282,lon=-68.5238631,alt=3.09 Temp: 37 Modo: HOLD 16:12:04 F: 8
+lat=-31.5350282,lon=-68.5238631,alt=3.24 Temp: 38 Modo: HOLD 16:12:04 F: 9
+lat=-31.5350282,lon=-68.5238631,alt=3.08 Temp: 39 Modo: HOLD 16:12:05 F: 10
+lat=-31.5350282,lon=-68.5238631,alt=3.49 Temp: -10 Modo: HOLD 16:12:06 F: 11
+lat=-31.5350282,lon=-68.5238631,alt=3.08 Temp: -9 Modo: HOLD 16:12:06 F: 12
+lat=-31.5350282,lon=-68.5238631,alt=3.08 Temp: -8 Modo: HOLD 16:12:07 F: 13
+lat=-31.5350282,lon=-68.5238631,alt=2.99 Temp: -7 Modo: HOLD 16:12:07 F: 14
+lat=-31.5350282,lon=-68.5238631,alt=3.12 Temp: -6 Modo: HOLD 16:12:08 F: 15
+lat=-31.5350282,lon=-68.5238631,alt=3.32 Temp: -5 Modo: HOLD 16:12:08 F: 16
+lat=-31.5350282,lon=-68.5238631,alt=3.13 Temp: -4 Modo: HOLD 16:12:09 F: 17
+lat=-31.5350282,lon=-68.5238631,alt=3.28 Temp: -3 Modo: HOLD 16:12:10 F: 18
+lat=-31.5350282,lon=-68.5238631,alt=3.0 Temp: -2 Modo: HOLD 16:12:10 F: 19
+lat=-31.5350282,lon=-68.5238631,alt=3.14 Temp: -1 Modo: MANUAL 16:12:11 F: 20
+lat=-31.5350282,lon=-68.5238631,alt=3.15 Temp: 0 Modo: MANUAL 16:12:11 F: 21
+lat=-31.5350282,lon=-68.5238631,alt=3.13 Temp: 1 Modo: MANUAL 16:12:12 F: 22
+lat=-31.5350282,lon=-68.5238631,alt=3.13 Temp: 2 Modo: MANUAL 16:12:13 F: 23
+lat=-31.5350282,lon=-68.5238631,alt=3.04 Temp: 3 Modo: MANUAL 16:12:13 F: 24
+lat=-31.5350282,lon=-68.5238631,alt=3.1 Temp: 4 Modo: MANUAL 16:12:14 F: 25
+lat=-31.5350282,lon=-68.5238631,alt=3.02 Temp: 5 Modo: MANUAL 16:12:14 F: 26
+lat=-31.5350282,lon=-68.5238631,alt=3.21 Temp: 6 Modo: MANUAL 16:12:15 F: 27
+lat=-31.5350282,lon=-68.5238631,alt=3.32 Temp: 7 Modo: MANUAL 16:12:15 F: 28
+lat=-31.5350282,lon=-68.5238631,alt=3.27 Temp: 8 Modo: MANUAL 16:12:16 F: 29
+lat=-31.5350282,lon=-68.5238631,alt=3.18 Temp: 9 Modo: MANUAL 16:12:17 F: 30
+lat=-31.5350282,lon=-68.5238631,alt=3.2 Temp: 10 Modo: HOLD 16:12:17 F: 31
+lat=-31.5350282,lon=-68.5238631,alt=3.14 Temp: 11 Modo: HOLD 16:12:18 F: 32
+lat=-31.5350282,lon=-68.5238631,alt=3.16 Temp: 12 Modo: HOLD 16:12:18 F: 33
+lat=-31.5350282,lon=-68.5238631,alt=3.5 Temp: 13 Modo: HOLD 16:12:19 F: 34
+lat=-31.5350282,lon=-68.5238631,alt=3.43 Temp: 14 Modo: HOLD 16:12:20 F: 35
+lat=-31.5350282,lon=-68.5238631,alt=3.4 Temp: 15 Modo: HOLD 16:12:20 F: 36
+lat=-31.5350282,lon=-68.5238631,alt=3.26 Temp: 16 Modo: HOLD 16:12:21 F: 37
+lat=-31.5350282,lon=-68.5238631,alt=3.38 Temp: 17 Modo: HOLD 16:12:21 F: 38
+lat=-31.5350282,lon=-68.5238631,alt=3.19 Temp: 18 Modo: HOLD 16:12:22 F: 39
+lat=-31.5350282,lon=-68.5238631,alt=3.46 Temp: 19 Modo: HOLD 16:12:23 F: 40
+lat=-31.5350282,lon=-68.5238631,alt=3.27 Temp: 20 Modo: HOLD 16:12:23 F: 41
+lat=-31.5350282,lon=-68.5238631,alt=3.49 Temp: 21 Modo: HOLD 16:12:24 F: 42
+lat=-31.5350282,lon=-68.5238631,alt=3.13 Temp: 22 Modo: HOLD 16:12:24 F: 43
+lat=-31.5350282,lon=-68.5238631,alt=3.2 Temp: 23 Modo: HOLD 16:12:25 F: 44
+lat=-31.5350282,lon=-68.5238631,alt=3.22 Temp: 24 Modo: HOLD 16:12:26 F: 45
+lat=-31.5350282,lon=-68.5238631,alt=3.16 Temp: 25 Modo: HOLD 16:12:26 F: 46
+lat=-31.5350282,lon=-68.5238631,alt=3.18 Temp: 26 Modo: HOLD 16:12:27 F: 47
+lat=-31.5350282,lon=-68.5238631,alt=3.34 Temp: 27 Modo: HOLD 16:12:27 F: 48
+lat=-31.5350282,lon=-68.5238631,alt=3.06 Temp: 28 Modo: HOLD 16:12:28 F: 49
+lat=-31.5350282,lon=-68.5238631,alt=3.21 Temp: 29 Modo: HOLD 16:12:29 F: 50
+lat=-31.5350282,lon=-68.5238631,alt=3.19 Temp: 30 Modo: HOLD 16:12:29 F: 51
+lat=-31.5350282,lon=-68.5238631,alt=3.21 Temp: 31 Modo: HOLD 16:12:30 F: 52
+lat=-31.5350282,lon=-68.5238631,alt=3.13 Temp: 32 Modo: HOLD 16:12:30 F: 53
+lat=-31.5350282,lon=-68.5238631,alt=3.2 Temp: 33 Modo: HOLD 16:12:31 F: 54
+lat=-31.5350282,lon=-68.5238631,alt=3.28 Temp: 34 Modo: HOLD 16:12:32 F: 55
+lat=-31.5350282,lon=-68.5238631,alt=3.12 Temp: 35 Modo: HOLD 16:12:32 F: 56
+lat=-31.5350282,lon=-68.5238631,alt=3.31 Temp: 36 Modo: HOLD 16:12:33 F: 57
+lat=-31.5350282,lon=-68.5238631,alt=3.31 Temp: 37 Modo: HOLD 16:12:33 F: 58
+lat=-31.5350282,lon=-68.5238631,alt=3.35 Temp: 38 Modo: HOLD 16:12:34 F: 59
+lat=-31.5350282,lon=-68.5238631,alt=3.09 Temp: 39 Modo: HOLD 16:12:35 F: 60
+lat=-31.5350282,lon=-68.5238631,alt=3.13 Temp: -10 Modo: HOLD 16:12:35 F: 61
+lat=-31.5350282,lon=-68.5238631,alt=3.14 Temp: -9 Modo: HOLD 16:12:36 F: 62
+lat=-31.5350282,lon=-68.5238631,alt=3.24 Temp: -8 Modo: HOLD 16:12:36 F: 63
+lat=-31.5350282,lon=-68.5238631,alt=3.26 Temp: -7 Modo: HOLD 16:12:37 F: 64
+lat=-31.5350282,lon=-68.5238631,alt=3.24 Temp: -6 Modo: HOLD 16:12:38 F: 65
+lat=-31.5350282,lon=-68.5238631,alt=3.34 Temp: -5 Modo: HOLD 16:12:38 F: 66
+lat=-31.5350282,lon=-68.5238631,alt=3.19 Temp: -4 Modo: HOLD 16:12:39 F: 67
+lat=-31.5350282,lon=-68.5238631,alt=3.26 Temp: -3 Modo: HOLD 16:12:39 F: 68
+lat=-31.5350282,lon=-68.5238631,alt=3.28 Temp: -2 Modo: HOLD 16:12:40 F: 69
+lat=-31.5350282,lon=-68.5238631,alt=3.45 Temp: -1 Modo: HOLD 16:12:40 F: 70
+lat=-31.5350282,lon=-68.5238631,alt=3.38 Temp: 0 Modo: HOLD 16:12:41 F: 71
+lat=-31.5350282,lon=-68.5238631,alt=3.32 Temp: 1 Modo: HOLD 16:12:42 F: 72
+lat=-31.5350282,lon=-68.5238631,alt=3.47 Temp: 2 Modo: HOLD 16:12:42 F: 73
+lat=-31.5350282,lon=-68.5238631,alt=3.42 Temp: 3 Modo: HOLD 16:12:43 F: 74
+lat=-31.5350282,lon=-68.5238631,alt=3.27 Temp: 4 Modo: HOLD 16:12:43 F: 75
+lat=-31.5350282,lon=-68.5238631,alt=3.38 Temp: 5 Modo: HOLD 16:12:44 F: 76
+lat=-31.5350282,lon=-68.5238631,alt=3.53 Temp: 6 Modo: HOLD 16:12:45 F: 77
+lat=-31.5350282,lon=-68.5238631,alt=3.3 Temp: 7 Modo: HOLD 16:12:45 F: 78
+lat=-31.5350282,lon=-68.5238631,alt=3.4 Temp: 8 Modo: HOLD 16:12:46 F: 79
+lat=-31.5350282,lon=-68.5238631,alt=3.26 Temp: 9 Modo: HOLD 16:12:46 F: 80
+lat=-31.5350282,lon=-68.5238631,alt=3.25 Temp: 10 Modo: HOLD 16:12:47 F: 81
+lat=-31.5350282,lon=-68.5238631,alt=3.43 Temp: 11 Modo: HOLD 16:12:47 F: 82
+lat=-31.5350282,lon=-68.5238631,alt=3.3 Temp: 12 Modo: HOLD 16:12:48 F: 83
+lat=-31.5350282,lon=-68.5238631,alt=3.43 Temp: 13 Modo: HOLD 16:12:49 F: 84
+lat=-31.5350282,lon=-68.5238631,alt=3.13 Temp: 14 Modo: HOLD 16:12:49 F: 85
+lat=-31.5350282,lon=-68.5238631,alt=3.4 Temp: 15 Modo: HOLD 16:12:50 F: 86
+lat=-31.5350282,lon=-68.5238631,alt=3.11 Temp: 16 Modo: HOLD 16:12:50 F: 87
+lat=-31.5350282,lon=-68.5238631,alt=3.17 Temp: 17 Modo: HOLD 16:12:51 F: 88
+lat=-31.5350282,lon=-68.5238631,alt=3.41 Temp: 18 Modo: HOLD 16:12:52 F: 89
+lat=-31.5350282,lon=-68.5238631,alt=3.43 Temp: 19 Modo: HOLD 16:12:52 F: 90
+lat=-31.5350282,lon=-68.5238631,alt=3.12 Temp: 20 Modo: HOLD 16:12:53 F: 91
+lat=-31.5350282,lon=-68.5238631,alt=3.2 Temp: 21 Modo: HOLD 16:12:53 F: 92
+lat=-31.5350282,lon=-68.5238631,alt=3.07 Temp: 22 Modo: HOLD 16:12:54 F: 93
+lat=-31.5350282,lon=-68.5238631,alt=3.17 Temp: 23 Modo: HOLD 16:12:55 F: 94
+lat=-31.5350282,lon=-68.5238631,alt=3.14 Temp: 24 Modo: HOLD 16:12:55 F: 95
+lat=-31.5350282,lon=-68.5238631,alt=3.25 Temp: 25 Modo: HOLD 16:12:56 F: 96
+lat=-31.5350282,lon=-68.5238631,alt=3.39 Temp: 26 Modo: HOLD 16:12:56 F: 97
+lat=-31.5350282,lon=-68.5238631,alt=3.18 Temp: 27 Modo: HOLD 16:12:57 F: 98
+lat=-31.5350282,lon=-68.5238631,alt=3.35 Temp: 28 Modo: HOLD 16:12:58 F: 99
+lat=-31.5350282,lon=-68.5238631,alt=3.33 Temp: 29 Modo: HOLD 16:12:58 F: 0
+lat=-31.5350282,lon=-68.5238631,alt=3.53 Temp: 30 Modo: HOLD 16:12:59 F: 1
+lat=-31.5350282,lon=-68.5238631,alt=3.34 Temp: 31 Modo: HOLD 16:12:59 F: 2
+lat=-31.5350282,lon=-68.5238631,alt=3.25 Temp: 32 Modo: HOLD 16:13:00 F: 3
+lat=-31.5350282,lon=-68.5238631,alt=3.34 Temp: 33 Modo: HOLD 16:13:01 F: 4
+lat=-31.5350282,lon=-68.5238631,alt=3.38 Temp: 34 Modo: HOLD 16:13:01 F: 5
+lat=-31.5350282,lon=-68.5238631,alt=3.38 Temp: 35 Modo: HOLD 16:13:02 F: 6
+lat=-31.5350282,lon=-68.5238631,alt=3.48 Temp: 36 Modo: HOLD 16:13:02 F: 7
+lat=-31.5350282,lon=-68.5238631,alt=3.5 Temp: 37 Modo: HOLD 16:13:03 F: 8
+lat=-31.5350282,lon=-68.5238631,alt=3.51 Temp: 38 Modo: HOLD 16:13:03 F: 9
+lat=-31.5350282,lon=-68.5238631,alt=3.43 Temp: 39 Modo: HOLD 16:13:04 F: 10
+lat=-31.5350282,lon=-68.5238631,alt=3.29 Temp: -10 Modo: HOLD 16:13:05 F: 11
+lat=-31.5350282,lon=-68.5238631,alt=3.28 Temp: -9 Modo: HOLD 16:13:05 F: 12
+lat=-31.5350282,lon=-68.5238631,alt=3.52 Temp: -8 Modo: HOLD 16:13:06 F: 13
+lat=-31.5350282,lon=-68.5238631,alt=3.46 Temp: -7 Modo: HOLD 16:13:07 F: 14
+lat=-31.5350282,lon=-68.5238631,alt=3.41 Temp: -6 Modo: HOLD 16:13:07 F: 15
+lat=-31.5350282,lon=-68.5238631,alt=3.36 Temp: -5 Modo: HOLD 16:13:08 F: 16
+lat=-31.5350282,lon=-68.5238631,alt=3.27 Temp: -4 Modo: HOLD 16:13:08 F: 17
+lat=-31.5350282,lon=-68.5238631,alt=3.41 Temp: -3 Modo: HOLD 16:13:09 F: 18
+lat=-31.5350282,lon=-68.5238631,alt=3.21 Temp: -2 Modo: HOLD 16:13:10 F: 19
+lat=-31.5350282,lon=-68.5238631,alt=3.26 Temp: -1 Modo: HOLD 16:13:10 F: 20
+lat=-31.5350282,lon=-68.5238631,alt=3.46 Temp: 0 Modo: HOLD 16:13:11 F: 21
+lat=-31.5350282,lon=-68.5238631,alt=3.46 Temp: 1 Modo: HOLD 16:13:11 F: 22
+lat=0.0,lon=0.0,alt=0.11 Temp: 23 Modo: HOLD 10:27:32 F: 33
+lat=0.0,lon=0.0,alt=0.03 Temp: 24 Modo: HOLD 10:27:32 F: 34
+lat=0.0,lon=0.0,alt=0.19 Temp: 25 Modo: HOLD 10:27:33 F: 35
+lat=0.0,lon=0.0,alt=0.25 Temp: 26 Modo: HOLD 10:27:34 F: 36
+lat=0.0,lon=0.0,alt=0.09 Temp: 27 Modo: HOLD 10:27:34 F: 37
+lat=0.0,lon=0.0,alt=0.32 Temp: 28 Modo: HOLD 10:27:35 F: 38
+lat=0.0,lon=0.0,alt=0.4 Temp: 29 Modo: HOLD 10:27:35 F: 39
+lat=0.0,lon=0.0,alt=0.23 Temp: 30 Modo: HOLD 10:27:36 F: 40
+lat=0.0,lon=0.0,alt=0.1 Temp: 31 Modo: HOLD 10:27:37 F: 41
+lat=0.0,lon=0.0,alt=0.08 Temp: 32 Modo: HOLD 10:27:37 F: 42
+lat=0.0,lon=0.0,alt=0.04 Temp: 33 Modo: HOLD 10:27:38 F: 43
+lat=0.0,lon=0.0,alt=-0.06 Temp: 34 Modo: HOLD 10:27:39 F: 44
+lat=0.0,lon=0.0,alt=-0.11 Temp: 35 Modo: HOLD 10:27:39 F: 45
+lat=0.0,lon=0.0,alt=-0.19 Temp: 36 Modo: HOLD 10:27:40 F: 46
+lat=0.0,lon=0.0,alt=-0.06 Temp: 37 Modo: HOLD 10:27:40 F: 47
+lat=0.0,lon=0.0,alt=-0.1 Temp: 38 Modo: HOLD 10:27:41 F: 48
+lat=0.0,lon=0.0,alt=-0.05 Temp: 39 Modo: HOLD 10:27:42 F: 49
+lat=0.0,lon=0.0,alt=-0.28 Temp: -10 Modo: HOLD 10:27:42 F: 50
+lat=0.0,lon=0.0,alt=-0.33 Temp: -9 Modo: HOLD 10:27:43 F: 51
+lat=0.0,lon=0.0,alt=-0.29 Temp: -8 Modo: HOLD 10:27:43 F: 52
+lat=0.0,lon=0.0,alt=-0.31 Temp: -7 Modo: HOLD 10:27:44 F: 53
+lat=0.0,lon=0.0,alt=-0.36 Temp: -6 Modo: HOLD 10:27:45 F: 54
+lat=0.0,lon=0.0,alt=-0.24 Temp: -5 Modo: HOLD 10:27:45 F: 55
+lat=0.0,lon=0.0,alt=-0.65 Temp:  Modo: HOLD 10:28:33 F: 1
+lat=0.0,lon=0.0,alt=-0.27 Temp: -8 Modo: HOLD 10:28:37 F: 2
+lat=0.0,lon=0.0,alt=-0.59 Temp: 18 Modo: HOLD 10:29:05 F: 10
+lat=0.0,lon=0.0,alt=-0.62 Temp: 19 Modo: HOLD 10:29:09 F: 11
+lat=0.0,lon=0.0,alt=-0.79 Temp: 20 Modo: HOLD 10:29:12 F: 12
+lat=0.0,lon=0.0,alt=-0.61 Temp: 21 Modo: HOLD 10:29:16 F: 13
+lat=0.0,lon=0.0,alt=-0.24 Temp: 22 Modo: HOLD 10:29:19 F: 14
+lat=0.0,lon=0.0,alt=-0.29 Temp: 23 Modo: HOLD 10:29:23 F: 15
+lat=0.0,lon=0.0,alt=-0.47 Temp: 24 Modo: HOLD 10:29:27 F: 16
+lat=0.0,lon=0.0,alt=-0.48 Temp: 25 Modo: HOLD 10:29:30 F: 17
+lat=0.0,lon=0.0,alt=-0.43 Temp: 26 Modo: HOLD 10:29:34 F: 18
+lat=0.0,lon=0.0,alt=-0.4 Temp: 27 Modo: HOLD 10:29:37 F: 19
+lat=0.0,lon=0.0,alt=-0.78 Temp: 28 Modo: HOLD 10:29:41 F: 20
+lat=0.0,lon=0.0,alt=-0.5 Temp: 29 Modo: HOLD 10:29:44 F: 21
+lat=0.0,lon=0.0,alt=-0.64 Temp: 30 Modo: HOLD 10:29:48 F: 22
+lat=0.0,lon=0.0,alt=-0.9 Temp: 31 Modo: HOLD 10:29:52 F: 23
+lat=0.0,lon=0.0,alt=-0.73 Temp: 32 Modo: HOLD 10:29:55 F: 24
+lat=0.0,lon=0.0,alt=-0.57 Temp: 33 Modo: HOLD 10:29:59 F: 25
+lat=0.0,lon=0.0,alt=-0.37 Temp: 34 Modo: HOLD 10:30:02 F: 26
+lat=0.0,lon=0.0,alt=-0.61 Temp: 35 Modo: HOLD 10:30:06 F: 27
+lat=0.0,lon=0.0,alt=-0.93 Temp: 36 Modo: HOLD 10:30:09 F: 28
+lat=0.0,lon=0.0,alt=-1.03 Temp: 37 Modo: HOLD 10:30:13 F: 29
+lat=0.0,lon=0.0,alt=-0.5 Temp: 38 Modo: MANUAL 10:30:17 F: 30
+lat=0.0,lon=0.0,alt=-0.56 Temp: 39 Modo: MANUAL 10:30:20 F: 31
+lat=0.0,lon=0.0,alt=-0.58 Temp: -10 Modo: HOLD 10:30:24 F: 32
+lat=0.0,lon=0.0,alt=-0.48 Temp: -9 Modo: HOLD 10:30:27 F: 33
+lat=0.0,lon=0.0,alt=-0.16 Temp: -8 Modo: HOLD 10:30:31 F: 34
+lat=0.0,lon=0.0,alt=-0.46 Temp: -9 Modo: HOLD 10:30:35 F: 35
+lat=0.0,lon=0.0,alt=-0.41 Temp: -8 Modo: HOLD 10:30:38 F: 36
+lat=0.0,lon=0.0,alt=-0.49 Temp: -7 Modo: HOLD 10:30:42 F: 37
+lat=0.0,lon=0.0,alt=-0.63 Temp: -6 Modo: HOLD 10:30:45 F: 38
+lat=0.0,lon=0.0,alt=-0.66 Temp: -5 Modo: HOLD 10:30:49 F: 39
+lat=0.0,lon=0.0,alt=-1.07 Temp: -4 Modo: HOLD 10:30:53 F: 40
+lat=0.0,lon=0.0,alt=-1.26 Temp: -3 Modo: HOLD 10:30:56 F: 41
+lat=0.0,lon=0.0,alt=-1.13 Temp: -2 Modo: HOLD 10:31:00 F: 42
+lat=0.0,lon=0.0,alt=-0.91 Temp: -1 Modo: HOLD 10:31:03 F: 43
+lat=0.0,lon=0.0,alt=-0.94 Temp: 0 Modo: HOLD 10:31:07 F: 44
+lat=0.0,lon=0.0,alt=-1.03 Temp: 1 Modo: HOLD 10:31:11 F: 45
+lat=0.0,lon=0.0,alt=-0.88 Temp: 2 Modo: HOLD 10:31:14 F: 46
+lat=0.0,lon=0.0,alt=-1.0 Temp: 3 Modo: HOLD 10:31:18 F: 47
+lat=0.0,lon=0.0,alt=-1.06 Temp: 4 Modo: HOLD 10:31:21 F: 48
+lat=0.0,lon=0.0,alt=-1.08 Temp: 5 Modo: HOLD 10:31:25 F: 49
+lat=0.0,lon=0.0,alt=-0.83 Temp: 6 Modo: HOLD 10:31:29 F: 50
+lat=0.0,lon=0.0,alt=-1.0 Temp: 7 Modo: HOLD 10:31:32 F: 51
+lat=0.0,lon=0.0,alt=-0.98 Temp: 8 Modo: HOLD 10:31:36 F: 52
+lat=0.0,lon=0.0,alt=-0.04 Temp:  Modo: HOLD 10:33:34 F: 1
+lat=0.0,lon=0.0,alt=-0.16 Temp: 7 Modo: HOLD 10:33:38 F: 2
+lat=0.0,lon=0.0,alt=-0.16 Temp: 7 Modo: HOLD 10:33:38 F: 2
+lat=0.0,lon=0.0,alt=-0.59 Temp: 8 Modo: HOLD 10:33:41 F: 3
+lat=0.0,lon=0.0,alt=-0.01 Temp: 9 Modo: HOLD 10:33:45 F: 4
+lat=0.0,lon=0.0,alt=0.63 Temp: 10 Modo: HOLD 10:33:49 F: 5
+lat=0.0,lon=0.0,alt=0.13 Temp: 11 Modo: HOLD 10:33:52 F: 6
+lat=0.0,lon=0.0,alt=-0.03 Temp: 12 Modo: HOLD 10:33:56 F: 7
+lat=0.0,lon=0.0,alt=0.55 Temp: 13 Modo: HOLD 10:33:59 F: 8
+lat=0.0,lon=0.0,alt=0.5 Temp: 14 Modo: HOLD 10:34:03 F: 9
+lat=0.0,lon=0.0,alt=0.56 Temp: 15 Modo: HOLD 10:34:06 F: 10
+lat=0.0,lon=0.0,alt=0.36 Temp: 16 Modo: HOLD 10:34:10 F: 11
+lat=0.0,lon=0.0,alt=0.41 Temp: 17 Modo: HOLD 10:34:14 F: 12
+lat=0.0,lon=0.0,alt=0.43 Temp: 18 Modo: HOLD 10:34:17 F: 13
+lat=0.0,lon=0.0,alt=0.42 Temp: 19 Modo: HOLD 10:34:21 F: 14
+lat=0.0,lon=0.0,alt=0.41 Temp: 20 Modo: HOLD 10:34:24 F: 15
+lat=0.0,lon=0.0,alt=0.19 Temp: 21 Modo: HOLD 10:34:28 F: 16
+lat=0.0,lon=0.0,alt=0.29 Temp: 22 Modo: HOLD 10:34:31 F: 17
+lat=0.0,lon=0.0,alt=0.1 Temp: 23 Modo: HOLD 10:34:35 F: 18
+lat=0.0,lon=0.0,alt=0.44 Temp: 24 Modo: HOLD 10:34:38 F: 19
+lat=0.0,lon=0.0,alt=0.51 Temp: 25 Modo: HOLD 10:34:42 F: 20
+lat=0.0,lon=0.0,alt=0.43 Temp: 26 Modo: HOLD 10:34:46 F: 21
+lat=0.0,lon=0.0,alt=0.45 Temp: 27 Modo: HOLD 10:34:49 F: 22
+lat=0.0,lon=0.0,alt=0.29 Temp: 28 Modo: HOLD 10:34:53 F: 23
+lat=0.0,lon=0.0,alt=0.36 Temp: 29 Modo: HOLD 10:34:56 F: 24
+lat=0.0,lon=0.0,alt=0.34 Temp: 30 Modo: HOLD 10:35:00 F: 25
+lat=0.0,lon=0.0,alt=0.04 Temp: 31 Modo: HOLD 10:35:03 F: 26
+lat=0.0,lon=0.0,alt=0.36 Temp:  Modo: HOLD 10:35:40 F: 1
+lat=0.0,lon=0.0,alt=0.09 Temp: 21 Modo: HOLD 10:35:43 F: 2
+lat=0.0,lon=0.0,alt=0.06 Temp: 22 Modo: HOLD 10:35:47 F: 3
+lat=0.0,lon=0.0,alt=-0.01 Temp: 23 Modo: HOLD 10:35:50 F: 4
+lat=0.0,lon=0.0,alt=0.17 Temp: 24 Modo: HOLD 10:35:54 F: 5
+lat=0.0,lon=0.0,alt=0.21 Temp: 25 Modo: HOLD 10:35:58 F: 6
+lat=0.0,lon=0.0,alt=0.01 Temp: 268 Modo: HOLD 10:36:01 F: 7
+lat=0.0,lon=0.0,alt=0.2 Temp: -7 Modo: MANUAL 10:36:05 F: 8
+lat=0.0,lon=0.0,alt=0.04 Temp: -6 Modo: MANUAL 10:36:08 F: 9
+lat=0.0,lon=0.0,alt=0.23 Temp: -5 Modo: MANUAL 10:36:12 F: 10
+lat=0.0,lon=0.0,alt=0.63 Temp: -4 Modo: MANUAL 10:36:16 F: 11
+lat=0.0,lon=0.0,alt=0.51 Temp: -3 Modo: MANUAL 10:36:19 F: 12
+lat=0.0,lon=0.0,alt=0.19 Temp: -2 Modo: MANUAL 10:36:23 F: 13
+lat=0.0,lon=0.0,alt=0.15 Temp: -1 Modo: MANUAL 10:36:26 F: 14
+lat=0.0,lon=0.0,alt=0.23 Temp: 0 Modo: MANUAL 10:36:30 F: 15
+lat=0.0,lon=0.0,alt=0.27 Temp: 1 Modo: MANUAL 10:36:33 F: 16
+lat=0.0,lon=0.0,alt=0.5 Temp: 2 Modo: MANUAL 10:36:37 F: 17
+lat=0.0,lon=0.0,alt=0.26 Temp: 3 Modo: MANUAL 10:36:41 F: 18
+lat=0.0,lon=0.0,alt=0.44 Temp: 4 Modo: MANUAL 10:36:44 F: 19
+lat=0.0,lon=0.0,alt=0.44 Temp: 5 Modo: MANUAL 10:36:48 F: 20
+lat=0.0,lon=0.0,alt=0.16 Temp: 6 Modo: MANUAL 10:36:51 F: 21
+lat=0.0,lon=0.0,alt=0.48 Temp: 7 Modo: MANUAL 10:36:55 F: 22
+lat=0.0,lon=0.0,alt=0.29 Temp: 8 Modo: MANUAL 10:36:59 F: 23
+lat=0.0,lon=0.0,alt=-0.04 Temp: 9 Modo: MANUAL 10:37:02 F: 24
+lat=0.0,lon=0.0,alt=-0.36 Temp: 10 Modo: MANUAL 10:37:06 F: 25
+lat=0.0,lon=0.0,alt=-0.18 Temp: 11 Modo: MANUAL 10:37:09 F: 26
+lat=0.0,lon=0.0,alt=-0.3 Temp: 12 Modo: MANUAL 10:37:13 F: 27
+lat=0.0,lon=0.0,alt=-0.04 Temp: 13 Modo: MANUAL 10:37:16 F: 28
+lat=0.0,lon=0.0,alt=0.09 Temp: 14 Modo: MANUAL 10:37:20 F: 29
+lat=0.0,lon=0.0,alt=0.0 Temp: 15 Modo: MANUAL 10:37:23 F: 30
+lat=0.0,lon=0.0,alt=0.03 Temp: 16 Modo: MANUAL 10:37:27 F: 31
+lat=0.0,lon=0.0,alt=-0.14 Temp: 17 Modo: MANUAL 10:37:31 F: 32
+lat=0.0,lon=0.0,alt=0.1 Temp: 18 Modo: MANUAL 10:37:34 F: 33
+lat=0.0,lon=0.0,alt=0.15 Temp: 19 Modo: MANUAL 10:37:38 F: 34
+lat=0.0,lon=0.0,alt=0.13 Temp: 20 Modo: MANUAL 10:37:41 F: 35
+lat=0.0,lon=0.0,alt=-0.16 Temp: 21 Modo: HOLD 10:37:45 F: 36
+lat=0.0,lon=0.0,alt=-0.09 Temp: 22 Modo: HOLD 10:37:49 F: 37
+lat=0.0,lon=0.0,alt=-0.07 Temp: 23 Modo: HOLD 10:37:52 F: 38
+lat=0.0,lon=0.0,alt=-0.16 Temp: 24 Modo: HOLD 10:37:56 F: 39
+lat=0.0,lon=0.0,alt=-0.12 Temp: 25 Modo: HOLD 10:38:00 F: 40
+lat=0.0,lon=0.0,alt=-0.04 Temp: 26 Modo: HOLD 10:38:03 F: 41
+lat=0.0,lon=0.0,alt=0.08 Temp:  Modo: HOLD 10:38:07 F: 42
+lat=0.0,lon=0.0,alt=-0.09 Temp: -7 Modo: HOLD 10:38:10 F: 43
+lat=0.0,lon=0.0,alt=0.04 Temp: -6 Modo: HOLD 10:38:14 F: 44
+lat=0.0,lon=0.0,alt=-0.08 Temp: -5 Modo: HOLD 10:38:18 F: 45
+lat=0.0,lon=0.0,alt=0.0 Temp: -4 Modo: HOLD 10:38:21 F: 46
+lat=0.0,lon=0.0,alt=-0.18 Temp: -3 Modo: HOLD 10:38:25 F: 47
+lat=0.0,lon=0.0,alt=-0.03 Temp: -2 Modo: HOLD 10:38:28 F: 48
+lat=0.0,lon=0.0,alt=-0.07 Temp: -1 Modo: HOLD 10:38:32 F: 49
+lat=0.0,lon=0.0,alt=-0.42 Temp: 0 Modo: HOLD 10:38:36 F: 50
+lat=0.0,lon=0.0,alt=-0.3 Temp: 1 Modo: HOLD 10:38:39 F: 51
+lat=0.0,lon=0.0,alt=0.2 Temp: 2 Modo: HOLD 10:38:43 F: 52
+lat=0.0,lon=0.0,alt=-0.13 Temp: 3 Modo: HOLD 10:38:46 F: 53
+lat=0.0,lon=0.0,alt=-0.21 Temp: 4 Modo: HOLD 10:38:50 F: 54
+lat=0.0,lon=0.0,alt=-0.37 Temp: 5 Modo: HOLD 10:38:54 F: 55
+lat=0.0,lon=0.0,alt=3.15 H: 300 pitch=-0.005369406659156084,yaw=-1.0443336963653564,roll=-0.044739797711372375 v: [0.0, 0.0, 0.0] 17:29:24
+lat=0.0,lon=0.0,alt=3.32 H: 300 pitch=-0.005385786760598421,yaw=-1.044144868850708,roll=-0.044619254767894745 v: [0.0, 0.0, 0.0] 17:29:25
+lat=0.0,lon=0.0,alt=3.17 H: 300 pitch=-0.005374299827963114,yaw=-1.0440858602523804,roll=-0.04457756504416466 v: [0.0, 0.0, 0.0] 17:29:26
+lat=0.0,lon=0.0,alt=3.23 H: 300 pitch=-0.005301095545291901,yaw=-1.0439625978469849,roll=-0.04431617259979248 v: [0.0, 0.0, 0.0] 17:29:27
+lat=0.0,lon=0.0,alt=3.17 H: 300 pitch=-0.005447641480714083,yaw=-1.044001579284668,roll=-0.044265929609537125 v: [0.0, 0.0, 0.0] 17:29:29
+lat=0.0,lon=0.0,alt=3.04 H: 300 pitch=-0.005474662408232689,yaw=-1.0437097549438477,roll=-0.044405385851860046 v: [0.0, 0.0, 0.0] 17:29:30
+lat=0.0,lon=0.0,alt=3.35 H: 300 pitch=-0.00533941388130188,yaw=-1.0436146259307861,roll=-0.04416690394282341 v: [0.0, 0.0, 0.0] 17:29:31
+lat=0.0,lon=0.0,alt=2.99 H: 300 pitch=-0.005372691433876753,yaw=-1.0439354181289673,roll=-0.04415365681052208 v: [0.0, 0.0, 0.0] 17:29:32
+lat=0.0,lon=0.0,alt=3.06 H: 300 pitch=-0.005350073333829641,yaw=-1.0439448356628418,roll=-0.04437059909105301 v: [0.0, 0.0, 0.0] 17:29:33
+lat=0.0,lon=0.0,alt=3.22 H: 300 pitch=-0.005304029211401939,yaw=-1.0438579320907593,roll=-0.04447431117296219 v: [0.0, 0.0, 0.0] 17:29:34
+lat=0.0,lon=0.0,alt=3.16 H: 300 pitch=-0.005086699966341257,yaw=-1.0435562133789062,roll=-0.044508107006549835 v: [0.0, 0.0, 0.0] 17:29:35
+lat=0.0,lon=0.0,alt=3.23 H: 300 pitch=-0.00508897053077817,yaw=-1.043721318244934,roll=-0.04455164447426796 v: [0.0, 0.0, 0.0] 17:29:36
+lat=0.0,lon=0.0,alt=3.16 H: 300 pitch=-0.005130117293447256,yaw=-1.0436720848083496,roll=-0.044277530163526535 v: [0.0, 0.0, 0.0] 17:29:37
+lat=0.0,lon=0.0,alt=3.13 H: 300 pitch=-0.005076260305941105,yaw=-1.0437003374099731,roll=-0.04420861601829529 v: [0.0, 0.0, 0.0] 17:29:38
+lat=0.0,lon=0.0,alt=3.08 H: 300 pitch=-0.005258088931441307,yaw=-1.043869972229004,roll=-0.04431091248989105 v: [0.0, 0.0, 0.0] 17:29:39
+lat=0.0,lon=0.0,alt=3.07 H: 300 pitch=-0.005247584078460932,yaw=-1.0442029237747192,roll=-0.044194839894771576 v: [0.0, 0.0, 0.0] 17:29:41
+lat=0.0,lon=0.0,alt=3.17 H: 300 pitch=-0.005016364622861147,yaw=-1.0439774990081787,roll=-0.04404095187783241 v: [0.0, 0.0, 0.0] 17:29:42
+lat=0.0,lon=0.0,alt=3.17 H: 300 pitch=-0.005188445094972849,yaw=-1.0443780422210693,roll=-0.0443553552031517 v: [0.0, 0.0, 0.0] 17:29:43
+lat=0.0,lon=0.0,alt=3.2 H: 300 pitch=-0.005165213253349066,yaw=-1.044396996498108,roll=-0.04469681158661842 v: [0.0, 0.0, 0.0] 17:29:44
+lat=0.0,lon=0.0,alt=2.95 H: 300 pitch=-0.005278152879327536,yaw=-1.0444897413253784,roll=-0.04481750726699829 v: [0.0, 0.0, 0.0] 17:29:45
+lat=0.0,lon=0.0,alt=3.09 H: 300 pitch=-0.005383399315178394,yaw=-1.0444906949996948,roll=-0.044894177466630936 v: [0.0, 0.0, 0.0] 17:29:46
+lat=0.0,lon=0.0,alt=3.09 H: 300 pitch=-0.005380948074162006,yaw=-1.0442686080932617,roll=-0.04469894617795944 v: [0.0, 0.0, 0.0] 17:29:47
+lat=0.0,lon=0.0,alt=3.11 H: 300 pitch=-0.005229547154158354,yaw=-1.0444022417068481,roll=-0.044932033866643906 v: [0.0, 0.0, 0.0] 17:29:48
+lat=0.0,lon=0.0,alt=3.06 H: 300 pitch=-0.0051408931612968445,yaw=-1.0441707372665405,roll=-0.0449598953127861 v: [0.0, 0.0, 0.0] 17:29:49
+lat=0.0,lon=0.0,alt=3.25 H: 300 pitch=-0.00528348982334137,yaw=-1.0443623065948486,roll=-0.04482168331742287 v: [0.0, 0.0, 0.0] 17:29:50
+lat=0.0,lon=0.0,alt=-5.01 H: 299 pitch=-0.0019398229196667671,yaw=-1.0599219799041748,roll=-0.042142949998378754 v: [0.01, 0.0, 0.0] 19:10:30
+lat=0.0,lon=0.0,alt=-5.11 H: 299 pitch=-0.0019103949889540672,yaw=-1.0598962306976318,roll=-0.04222070425748825 v: [0.01, 0.0, 0.0] 19:10:31
+lat=0.0,lon=0.0,alt=-5.18 H: 299 pitch=-0.0018715932965278625,yaw=-1.0598621368408203,roll=-0.04230386018753052 v: [0.0, 0.0, 0.0] 19:10:32
+lat=0.0,lon=0.0,alt=-5.06 H: 299 pitch=-0.0019278395920991898,yaw=-1.0598467588424683,roll=-0.042271532118320465 v: [0.0, 0.0, 0.0] 19:10:33
+lat=0.0,lon=0.0,alt=-5.12 H: 299 pitch=-0.001993950456380844,yaw=-1.0598548650741577,roll=-0.04238270968198776 v: [0.0, 0.0, 0.0] 19:10:34
+lat=0.0,lon=0.0,alt=-5.08 H: 299 pitch=-0.0021000197157263756,yaw=-1.0598758459091187,roll=-0.04239682853221893 v: [0.0, 0.0, 0.0] 19:10:35
+lat=0.0,lon=0.0,alt=-4.93 H: 299 pitch=-0.0020543066784739494,yaw=-1.0599422454833984,roll=-0.04246825352311134 v: [0.0, 0.0, 0.0] 19:10:36
+lat=0.0,lon=0.0,alt=-4.99 H: 299 pitch=-0.0020339498296380043,yaw=-1.0597591400146484,roll=-0.042408451437950134 v: [0.0, 0.0, 0.0] 19:10:37
+lat=0.0,lon=0.0,alt=-4.81 H: 299 pitch=-0.002013683319091797,yaw=-1.0596543550491333,roll=-0.04217398911714554 v: [0.0, 0.0, 0.0] 19:10:38
+lat=0.0,lon=0.0,alt=-5.36 H: 299 pitch=-0.0020749997347593307,yaw=-1.0595157146453857,roll=-0.04207269474864006 v: [0.01, 0.0, 0.0] 19:10:39
+lat=0.0,lon=0.0,alt=-4.97 H: 299 pitch=-0.0021327901631593704,yaw=-1.0594817399978638,roll=-0.04204230010509491 v: [0.01, 0.0, 0.0] 19:10:40
+lat=0.0,lon=0.0,alt=-4.97 H: 299 pitch=-0.002124043181538582,yaw=-1.0592669248580933,roll=-0.041994791477918625 v: [0.01, 0.0, 0.0] 19:10:41
+lat=0.0,lon=0.0,alt=-5.05 H: 299 pitch=-0.0022236257791519165,yaw=-1.059298038482666,roll=-0.04206598922610283 v: [0.01, 0.0, -0.01] 19:10:42
+lat=0.0,lon=0.0,alt=-5.1 H: 299 pitch=-0.002253817394375801,yaw=-1.0593478679656982,roll=-0.04221367463469505 v: [0.02, 0.0, -0.01] 19:10:43
+lat=0.0,lon=0.0,alt=-5.17 H: 299 pitch=-0.0020693903788924217,yaw=-1.0593189001083374,roll=-0.04294830933213234 v: [0.02, 0.0, -0.01] 19:10:44
+lat=0.0,lon=0.0,alt=-5.03 H: 299 pitch=-0.0021274788305163383,yaw=-1.0594017505645752,roll=-0.042748868465423584 v: [0.02, 0.0, 0.0] 19:10:46
+lat=0.0,lon=0.0,alt=-5.23 H: 299 pitch=-0.00205828994512558,yaw=-1.059437870979309,roll=-0.04292565956711769 v: [0.02, 0.0, 0.0] 19:10:47
+lat=0.0,lon=0.0,alt=-5.13 H: 299 pitch=-0.0022556278854608536,yaw=-1.0593732595443726,roll=-0.041964419186115265 v: [0.02, 0.0, 0.0] 19:10:48
+lat=0.0,lon=0.0,alt=-5.18 H: 299 pitch=-0.0019876137375831604,yaw=-1.0593241453170776,roll=-0.043037381023168564 v: [0.02, 0.0, 0.0] 19:10:49
+lat=0.0,lon=0.0,alt=-5.05 H: 299 pitch=-0.0018644100055098534,yaw=-1.0593931674957275,roll=-0.04355835169553757 v: [0.01, 0.0, 0.0] 19:10:50
+lat=0.0,lon=0.0,alt=-4.96 H: 299 pitch=-0.0016495008021593094,yaw=-1.0594314336776733,roll=-0.04440245404839516 v: [0.01, 0.0, 0.0] 19:10:51
+lat=0.0,lon=0.0,alt=-5.0 H: 299 pitch=-0.001702302135527134,yaw=-1.0594593286514282,roll=-0.04452778026461601 v: [0.01, 0.0, 0.0] 19:10:52
+lat=0.0,lon=0.0,alt=-4.95 H: 299 pitch=-0.0018403232097625732,yaw=-1.0594160556793213,roll=-0.043692056089639664 v: [0.01, 0.0, 0.0] 19:10:53
+lat=0.0,lon=0.0,alt=-5.18 H: 299 pitch=-0.0019896235316991806,yaw=-1.0595070123672485,roll=-0.0426628440618515 v: [0.01, 0.0, 0.0] 19:10:54
+lat=0.0,lon=0.0,alt=-4.89 H: 299 pitch=-0.0016248198226094246,yaw=-1.0596065521240234,roll=-0.043740805238485336 v: [0.02, 0.0, 0.0] 19:10:55
+lat=0.0,lon=0.0,alt=-5.07 H: 299 pitch=-0.001720339059829712,yaw=-1.0596258640289307,roll=-0.04281102493405342 v: [0.01, 0.0, 0.0] 19:10:56
+lat=0.0,lon=0.0,alt=-5.12 H: 299 pitch=-0.001802227459847927,yaw=-1.0596287250518799,roll=-0.042444486171007156 v: [0.01, 0.0, 0.0] 19:10:58
+lat=0.0,lon=0.0,alt=-5.17 H: 299 pitch=-0.001849941909313202,yaw=-1.0596799850463867,roll=-0.04266447573900223 v: [0.01, 0.0, 0.0] 19:10:59
+lat=0.0,lon=0.0,alt=-5.11 H: 299 pitch=-0.0017939414829015732,yaw=-1.0597084760665894,roll=-0.04277273267507553 v: [0.01, 0.0, 0.0] 19:11:00
+lat=0.0,lon=0.0,alt=-5.13 H: 299 pitch=-0.0019017551094293594,yaw=-1.0597211122512817,roll=-0.04271227866411209 v: [0.0, 0.0, 0.0] 19:11:01
+lat=0.0,lon=0.0,alt=-5.21 H: 299 pitch=-0.001874113455414772,yaw=-1.059766173362732,roll=-0.0426798053085804 v: [0.0, 0.0, 0.0] 19:11:02
+lat=0.0,lon=0.0,alt=-5.1 H: 299 pitch=-0.0019574901089072227,yaw=-1.059701681137085,roll=-0.04271883890032768 v: [0.0, 0.0, 0.0] 19:11:03
+lat=0.0,lon=0.0,alt=-4.94 H: 299 pitch=-0.0020223427563905716,yaw=-1.0596189498901367,roll=-0.04269007220864296 v: [0.0, 0.0, -0.01] 19:11:04
+lat=0.0,lon=0.0,alt=-5.04 H: 299 pitch=-0.002069893293082714,yaw=-1.0595000982284546,roll=-0.04267880693078041 v: [0.0, 0.0, 0.0] 19:11:05
+lat=0.0,lon=0.0,alt=-4.95 H: 299 pitch=-0.0021674660965800285,yaw=-1.0596462488174438,roll=-0.04261130094528198 v: [0.0, -0.01, 0.0] 19:11:06
+lat=0.0,lon=0.0,alt=-5.15 H: 299 pitch=-0.0021783150732517242,yaw=-1.0597386360168457,roll=-0.04269230365753174 v: [0.0, -0.01, 0.0] 19:11:07
+lat=0.0,lon=0.0,alt=-5.1 H: 299 pitch=-0.002209119498729706,yaw=-1.0596979856491089,roll=-0.042593590915203094 v: [0.0, -0.01, 0.0] 19:11:08
+lat=0.0,lon=0.0,alt=-5.09 H: 299 pitch=-0.0020945630967617035,yaw=-1.0597352981567383,roll=-0.04268430173397064 v: [0.0, -0.02, 0.0] 19:11:09
+lat=0.0,lon=0.0,alt=-5.14 H: 299 pitch=-0.0021671466529369354,yaw=-1.059881567955017,roll=-0.042674750089645386 v: [0.0, -0.01, -0.01] 19:11:11
+lat=0.0,lon=0.0,alt=-5.17 H: 299 pitch=-0.0021602297201752663,yaw=-1.059920310974121,roll=-0.04272496700286865 v: [0.0, -0.01, -0.01] 19:11:12
+lat=0.0,lon=0.0,alt=-5.08 H: 299 pitch=-0.0021536443382501602,yaw=-1.059875726699829,roll=-0.04273618012666702 v: [0.0, -0.02, 0.0] 19:11:13
+lat=0.0,lon=0.0,alt=-5.23 H: 299 pitch=-0.002192276529967785,yaw=-1.059927225112915,roll=-0.042777277529239655 v: [0.0, -0.02, 0.0] 19:11:14
+lat=0.0,lon=0.0,alt=-5.09 H: 299 pitch=-0.0020397789776325226,yaw=-1.0599725246429443,roll=-0.042765434831380844 v: [0.0, -0.02, 0.0] 19:11:15
+lat=0.0,lon=0.0,alt=-5.27 H: 299 pitch=-0.0021019838750362396,yaw=-1.0600218772888184,roll=-0.042798593640327454 v: [0.0, -0.02, 0.0] 19:11:16
+lat=0.0,lon=0.0,alt=-5.08 H: 299 pitch=-0.002115304581820965,yaw=-1.0600398778915405,roll=-0.04287708178162575 v: [0.0, -0.02, 0.0] 19:11:17
+lat=0.0,lon=0.0,alt=-5.13 H: 299 pitch=-0.0021249614655971527,yaw=-1.060042142868042,roll=-0.04291541501879692 v: [0.0, -0.02, 0.0] 19:11:18
+lat=0.0,lon=0.0,alt=-5.12 H: 299 pitch=-0.0019893571734428406,yaw=-1.0599746704101562,roll=-0.042774688452482224 v: [0.0, -0.02, 0.0] 19:11:19
+lat=0.0,lon=0.0,alt=-5.19 H: 299 pitch=-0.0018966412171721458,yaw=-1.060160756111145,roll=-0.04280482977628708 v: [0.0, -0.02, 0.0] 19:11:20
+lat=0.0,lon=0.0,alt=-5.05 H: 299 pitch=-0.0017705699428915977,yaw=-1.0602946281433105,roll=-0.04261963441967964 v: [0.0, -0.01, 0.0] 19:11:21
+lat=0.0,lon=0.0,alt=-5.22 H: 299 pitch=-0.0017140405252575874,yaw=-1.0603660345077515,roll=-0.042613644152879715 v: [0.0, -0.01, 0.0] 19:11:23
+lat=0.0,lon=0.0,alt=-5.3 H: 299 pitch=-0.001744651235640049,yaw=-1.0604805946350098,roll=-0.042570143938064575 v: [0.0, -0.01, 0.0] 19:11:24
+lat=0.0,lon=0.0,alt=-5.12 H: 299 pitch=-0.0015790080651640892,yaw=-1.0605765581130981,roll=-0.042529091238975525 v: [0.0, 0.0, 0.0] 19:11:25
+lat=0.0,lon=0.0,alt=-5.05 H: 299 pitch=-0.001552182249724865,yaw=-1.0604822635650635,roll=-0.04262163117527962 v: [0.0, 0.0, 0.0] 19:11:26
+lat=0.0,lon=0.0,alt=-5.13 H: 299 pitch=-0.0015102429315447807,yaw=-1.0604679584503174,roll=-0.0425301268696785 v: [0.0, 0.0, 0.0] 19:11:27
+lat=0.0,lon=0.0,alt=-5.24 H: 299 pitch=-0.00146418996155262,yaw=-1.0604734420776367,roll=-0.04241298511624336 v: [0.0, 0.0, 0.0] 19:11:28
+lat=0.0,lon=0.0,alt=-5.04 H: 299 pitch=-0.0014087334275245667,yaw=-1.0604721307754517,roll=-0.042292241007089615 v: [0.0, 0.01, 0.0] 19:11:29
+lat=0.0,lon=0.0,alt=-5.28 H: 299 pitch=-0.001415329985320568,yaw=-1.0604684352874756,roll=-0.04219435527920723 v: [0.0, 0.01, 0.0] 19:11:30
+lat=0.0,lon=0.0,alt=-5.1 H: 299 pitch=-0.0015077870339155197,yaw=-1.0604171752929688,roll=-0.04216098040342331 v: [0.0, 0.01, 0.0] 19:11:31
+lat=0.0,lon=0.0,alt=-5.12 H: 299 pitch=-0.0014977995306253433,yaw=-1.0604941844940186,roll=-0.04218791425228119 v: [0.0, 0.01, 0.0] 19:11:32
+lat=0.0,lon=0.0,alt=-5.0 H: 299 pitch=-0.001710205338895321,yaw=-1.0605658292770386,roll=-0.042198631912469864 v: [0.0, 0.01, 0.0] 19:11:33
+lat=0.0,lon=0.0,alt=-5.27 H: 299 pitch=-0.0017612762749195099,yaw=-1.0604946613311768,roll=-0.04201723262667656 v: [0.0, 0.01, 0.0] 19:11:34
+lat=0.0,lon=0.0,alt=-5.23 H: 299 pitch=-0.0016321977600455284,yaw=-1.060484766960144,roll=-0.0420675203204155 v: [0.0, 0.01, 0.0] 19:11:36
+lat=0.0,lon=0.0,alt=-5.15 H: 299 pitch=-0.0016609039157629013,yaw=-1.0606046915054321,roll=-0.041998814791440964 v: [0.01, 0.01, 0.0] 19:11:37
+lat=0.0,lon=0.0,alt=-5.12 H: 299 pitch=-0.0016180286183953285,yaw=-1.0606147050857544,roll=-0.04214392974972725 v: [0.01, 0.0, 0.0] 19:11:38
+lat=0.0,lon=0.0,alt=-5.22 H: 299 pitch=-0.0014864606782793999,yaw=-1.06064772605896,roll=-0.0422188974916935 v: [0.01, 0.0, 0.0] 19:11:39
+lat=0.0,lon=0.0,alt=-5.21 H: 299 pitch=-0.0014179199934005737,yaw=-1.0606766939163208,roll=-0.04216356202960014 v: [0.0, 0.0, 0.0] 19:11:40
+lat=0.0,lon=0.0,alt=-5.14 H: 299 pitch=-0.0013828007504343987,yaw=-1.0607376098632812,roll=-0.04230780526995659 v: [0.0, 0.0, 0.0] 19:11:41
+lat=0.0,lon=0.0,alt=-5.02 H: 299 pitch=-0.0014188475906848907,yaw=-1.0607562065124512,roll=-0.04221652075648308 v: [0.0, 0.0, -0.01] 19:11:42
+lat=0.0,lon=0.0,alt=-5.22 H: 299 pitch=-0.001554078422486782,yaw=-1.0606731176376343,roll=-0.04240953177213669 v: [0.0, 0.0, -0.01] 19:11:43
+lat=0.0,lon=0.0,alt=-5.15 H: 299 pitch=-0.0015197321772575378,yaw=-1.0606467723846436,roll=-0.042345188558101654 v: [0.0, 0.0, -0.01] 19:11:44
+lat=0.0,lon=0.0,alt=-5.21 H: 299 pitch=-0.0015467675402760506,yaw=-1.0606435537338257,roll=-0.042335063219070435 v: [0.0, 0.0, 0.0] 19:11:45
+lat=0.0,lon=0.0,alt=-5.14 H: 299 pitch=-0.001550464890897274,yaw=-1.0607300996780396,roll=-0.04229956865310669 v: [0.0, 0.0, 0.0] 19:11:46
+lat=0.0,lon=0.0,alt=-5.15 H: 299 pitch=-0.0016017640009522438,yaw=-1.0606521368026733,roll=-0.04226001352071762 v: [0.0, 0.0, 0.0] 19:11:47
+lat=0.0,lon=0.0,alt=-5.06 H: 299 pitch=-0.0017400449141860008,yaw=-1.0606889724731445,roll=-0.04222335293889046 v: [0.0, 0.0, 0.0] 19:11:49
+lat=0.0,lon=0.0,alt=-5.06 H: 299 pitch=-0.001660534180700779,yaw=-1.0606623888015747,roll=-0.04219731688499451 v: [0.0, 0.0, 0.0] 19:11:50
+lat=0.0,lon=0.0,alt=-5.08 H: 299 pitch=-0.0016241390258073807,yaw=-1.0606037378311157,roll=-0.04230126738548279 v: [0.0, 0.0, 0.0] 19:11:51
+lat=0.0,lon=0.0,alt=-5.25 H: 299 pitch=-0.0016454365104436874,yaw=-1.0605839490890503,roll=-0.04226365685462952 v: [0.0, 0.0, 0.0] 19:11:52
+lat=0.0,lon=0.0,alt=-5.18 H: 299 pitch=-0.0017194543033838272,yaw=-1.060718297958374,roll=-0.0421421080827713 v: [0.0, 0.01, 0.0] 19:11:53
+lat=0.0,lon=0.0,alt=-5.08 H: 299 pitch=-0.001788371242582798,yaw=-1.060802698135376,roll=-0.04195639118552208 v: [0.0, 0.01, 0.0] 19:11:54
+lat=0.0,lon=0.0,alt=-5.03 H: 299 pitch=-0.001675487495958805,yaw=-1.0608149766921997,roll=-0.0419004000723362 v: [0.01, 0.01, 0.0] 19:11:55
+lat=0.0,lon=0.0,alt=-5.04 H: 299 pitch=-0.0016823997721076012,yaw=-1.0608464479446411,roll=-0.04204683005809784 v: [0.01, 0.01, 0.0] 19:11:56
+lat=0.0,lon=0.0,alt=-5.31 H: 299 pitch=-0.0016641439869999886,yaw=-1.0608843564987183,roll=-0.041997503489255905 v: [0.01, 0.01, 0.0] 19:11:57
+lat=0.0,lon=0.0,alt=-5.0 H: 299 pitch=-0.0017446726560592651,yaw=-1.0609800815582275,roll=-0.04206908866763115 v: [0.01, 0.01, 0.0] 19:11:58
+lat=0.0,lon=0.0,alt=-5.26 H: 299 pitch=-0.0017847102135419846,yaw=-1.0609922409057617,roll=-0.042098745703697205 v: [0.01, 0.01, 0.0] 19:11:59
+lat=0.0,lon=0.0,alt=-5.26 H: 299 pitch=-0.0018012216314673424,yaw=-1.0609718561172485,roll=-0.04212050512433052 v: [0.01, 0.0, 0.0] 19:12:00
+lat=0.0,lon=0.0,alt=-5.14 H: 299 pitch=-0.0018389653414487839,yaw=-1.0610301494598389,roll=-0.04216005653142929 v: [0.01, 0.0, 0.0] 19:12:01
+lat=0.0,lon=0.0,alt=-5.06 H: 299 pitch=-0.0018345257267355919,yaw=-1.0609023571014404,roll=-0.04214202240109444 v: [0.01, 0.0, 0.0] 19:12:03
+lat=0.0,lon=0.0,alt=-5.23 H: 299 pitch=-0.0017872238531708717,yaw=-1.060848355293274,roll=-0.0421232245862484 v: [0.01, 0.0, 0.0] 19:12:04
+lat=0.0,lon=0.0,alt=-5.16 H: 299 pitch=-0.0017518727108836174,yaw=-1.0608316659927368,roll=-0.04212801903486252 v: [0.02, 0.0, 0.0] 19:12:05
+lat=0.0,lon=0.0,alt=-5.12 H: 299 pitch=-0.0018103299662470818,yaw=-1.0610268115997314,roll=-0.04212750494480133 v: [0.02, 0.0, 0.0] 19:12:06
+lat=0.0,lon=0.0,alt=-5.21 H: 299 pitch=-0.0019347919151186943,yaw=-1.0609320402145386,roll=-0.042026203125715256 v: [0.02, 0.0, 0.0] 19:12:07
+lat=0.0,lon=0.0,alt=-5.1 H: 299 pitch=-0.001973220147192478,yaw=-1.0608532428741455,roll=-0.04193459078669548 v: [0.02, 0.0, -0.01] 19:12:08
+lat=0.0,lon=0.0,alt=-5.32 H: 299 pitch=-0.0020013535395264626,yaw=-1.0608458518981934,roll=-0.04204048961400986 v: [0.02, 0.0, 0.0] 19:12:09
+lat=0.0,lon=0.0,alt=-5.12 H: 299 pitch=-0.002063244581222534,yaw=-1.0608426332473755,roll=-0.04200660437345505 v: [0.02, 0.0, 0.0] 19:12:10
+lat=0.0,lon=0.0,alt=-5.02 H: 299 pitch=-0.0022128233686089516,yaw=-1.0608575344085693,roll=-0.04205351695418358 v: [0.03, 0.0, 0.0] 19:12:11

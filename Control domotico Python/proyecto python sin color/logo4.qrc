@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="lohp">
+    <file>tem.png</file>
+  </qresource>
+  <qresource/>
+</RCC>
